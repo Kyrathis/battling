@@ -1,0 +1,28 @@
+C:\Users\lulul\OneDrive\Desktop\c# Coding\battling\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+C:\Users\lulul\OneDrive\Desktop\c# Coding\battling\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+C:\Users\lulul\OneDrive\Desktop\c# Coding\battling\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+C:\Users\lulul\OneDrive\Desktop\c# Coding\battling\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+C:\Users\lulul\OneDrive\Desktop\c# Coding\battling\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\lulul\OneDrive\Desktop\c# Coding\battling\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lulul\OneDrive\Desktop\c# Coding\battling\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\lulul\OneDrive\Desktop\c# Coding\battling\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\lulul\OneDrive\Desktop\c# Coding\battling\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\lulul\OneDrive\Desktop\c# Coding\battling\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+C:\Users\lulul\OneDrive\Desktop\c# Coding\battling\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+C:\Users\lulul\OneDrive\Desktop\c# Coding\battling\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\lulul\OneDrive\Desktop\c# Coding\battling\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\lulul\OneDrive\Desktop\c# Coding\battling\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
+C:\Users\lulul\OneDrive\Desktop\sem 1\c# Coding\battling\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+C:\Users\lulul\OneDrive\Desktop\sem 1\c# Coding\battling\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+C:\Users\lulul\OneDrive\Desktop\sem 1\c# Coding\battling\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+C:\Users\lulul\OneDrive\Desktop\sem 1\c# Coding\battling\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+C:\Users\lulul\OneDrive\Desktop\sem 1\c# Coding\battling\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\lulul\OneDrive\Desktop\sem 1\c# Coding\battling\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lulul\OneDrive\Desktop\sem 1\c# Coding\battling\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\lulul\OneDrive\Desktop\sem 1\c# Coding\battling\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\lulul\OneDrive\Desktop\sem 1\c# Coding\battling\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\lulul\OneDrive\Desktop\sem 1\c# Coding\battling\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+C:\Users\lulul\OneDrive\Desktop\sem 1\c# Coding\battling\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+C:\Users\lulul\OneDrive\Desktop\sem 1\c# Coding\battling\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\lulul\OneDrive\Desktop\sem 1\c# Coding\battling\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\lulul\OneDrive\Desktop\sem 1\c# Coding\battling\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
