@@ -7,41 +7,17 @@ using System.Threading.Tasks;
 namespace ConsoleApp1.Classes
 {
         
-    public class Hero
+    public class Hero : Actor
     {
-        private string name;
         private string className;
-        private int hP;
-        private int sTR;
-        private int dEF;
         private int lVL;
-        
 
-        public Hero(string name, string className, int HP, int STR, int DEF, int LVL)
+
+        public Hero(string Name, int HP, int STR, int DEF, int LVL, string className)
+            : base(Name, HP, STR, DEF) // Call the base class constructor
         {
-            this.name = name;
             this.className = className;
-            this.hP = HP;
-            this.sTR = STR;
-            this.dEF = DEF;
             this.lVL = LVL;
-        }
-
-        public int DEF
-        {
-            get { return this.dEF; }
-        }
-
-        public int HP
-        {
-            get { return hP; }
-            set { hP = value; }
-        }
-
-        public string Name
-        {
-            get { return name; }
-            set { name = value; }
         }
 
         public string ClassName
@@ -54,7 +30,7 @@ namespace ConsoleApp1.Classes
         {
             bool heroIsAlive = false;
 
-            if (this.hP > 0 )
+            if (this.HP > 0 )
             {
                 heroIsAlive = true;
             }
@@ -70,7 +46,7 @@ namespace ConsoleApp1.Classes
             Random rnd = new Random();
 
                 //3: generate a damage amount based on STR. 
-                playerDamage = this.sTR + rnd.Next(-3, 3);
+                playerDamage = this.STR + rnd.Next(-3, 3);
 
             //4: return the damage amount.
             return playerDamage;

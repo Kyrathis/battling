@@ -42,15 +42,15 @@ Hero ChooseHero(string playerName)
     switch(optionChoice)
     {
         case "Mage":
-            Hero mage = new(playerName, "Mage", 8, 5, 2, 1);
+            Hero mage = new(playerName, 8, 5, 2, 1, "Mage");
             chosenHero = mage;
             break;
         case "Rogue":
-            Hero rogue = new(playerName, "Rogue", 9, 4, 3, 1);
+            Hero rogue = new(playerName, 9, 4, 3, 1, "Rogue");
             chosenHero = rogue;
             break;
         case "Warrior":
-            Hero warrior = new(playerName, "Warrior", 10, 4, 4, 1);
+            Hero warrior = new(playerName, 10, 4, 4, 1, "Warrior");
             chosenHero = warrior;
             break;
     }
@@ -108,6 +108,7 @@ void MainLoop()
 
     CombatLoop(playerHero, chosenEnemy);
 
+    Console.ReadLine();
 
 }
 
@@ -119,7 +120,7 @@ void PlayerAttack(Hero playerHero, Enemy chosenEnemy)
 
     playerDamage = playerHero.PlayerAttack();
     //enemy block
-    totalDamage = playerDamage - chosenEnemy.Def;
+    totalDamage = playerDamage - chosenEnemy.DEF;
 
     if (totalDamage < 0) {
         totalDamage = 0;

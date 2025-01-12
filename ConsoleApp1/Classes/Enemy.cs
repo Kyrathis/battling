@@ -6,33 +6,13 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp1.Classes
 {
-    public class Enemy
+    public class Enemy : Actor
     {
-        private string name;
 
-        private int hp;
 
-        private int str;
-
-        private int def;
-
-        public Enemy(string name, int hp, int str, int def)
+        public Enemy(string Name, int HP, int STR, int DEF)
+                        : base(Name, HP, STR, DEF)
         {
-            this.name = name;
-            this.hp = hp;
-            this.str = str;
-            this.def = def;
-        }
-        public string Name { get { return name; } }
-        public int HP
-        {
-            get { return hp; }
-            set { hp = value; }
-        }
-
-        public int Def
-        {
-            get { return def; }
         }
 
         //Returns how much damage the enemy deals to the player.
@@ -41,7 +21,7 @@ namespace ConsoleApp1.Classes
             int EnemyDamage = 0;
 
             Random rnd = new Random();
-            EnemyDamage = this.str + rnd.Next(-3, 3);
+            EnemyDamage = this.STR + rnd.Next(-3, 3);
 
             return EnemyDamage;
         }
@@ -51,7 +31,7 @@ namespace ConsoleApp1.Classes
         {
             bool enemyIsAlive = false;
 
-            if (this.hp > 0)
+            if (this.HP > 0)
             {
                 enemyIsAlive = true;
             }
